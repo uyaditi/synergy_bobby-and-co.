@@ -10,8 +10,8 @@ Hunter.io is an automatic Vulnerability Assessment and Pentesting tool developed
 
 ## File Structure
 
-- `web folder`: Django application for the website
-- `bot folder`: Logic for the Telegram bot
+- `web`: Django application for the website
+- `telegram bot`: Telegram bot application
 
 ## Screenshots
 
