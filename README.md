@@ -15,7 +15,7 @@ Hunter.io is an automatic Vulnerability Assessment and Pentesting tool developed
 
 ## Screenshots
 
-(Insert screenshots here)
+You can find the screenshots of the app [here](https://drive.google.com/drive/u/0/folders/1shFnS2O8btcm_FfpJ0NgiBMmA0W-J8Og).
 
 ## Contributions
 Contributions are welcome! If you'd like to contribute to Hunter.io, please follow these steps:
